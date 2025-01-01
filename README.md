@@ -25,6 +25,8 @@ It was made for a college project, but my artist didn't make the art... I did th
 
 ### Head Bobbing
 - The head shakes, indicating movement, when we run it shakes faster than when we walk.
+![bobbling](Gifs/bobbling.gif)
+
 
 ### Dialogue System
 - The "owner" talks with the charcter in the beginning of the game.

@@ -31,20 +31,25 @@ It was made for a college project, but my artist didn't make the art... I did th
 ### Dialogue System
 - The "owner" talks with the charcter in the beginning of the game.
 
+
 ### Doors
 - The doors have physical ones where you can move them with the mouse or push them.
+  ![bobbling](Gifs/DoorPhysic.gif)
 - They can only be opened after a certain objective has been completed and they can be moved after we have passed them.
+  ![bobbling](Gifs/DoorCan'tOpen.gif)
 
 ### Collectibles 
 - In this case we can only collect the collectibles inside the game is the fragments, we can collect by interacting with the leftmouse click.
+  ![collectible](Gifs/collectible.gif)
 
 ### Lantern 
 - Player posses a lantern to see in the dark if he needs it.
+  ![Lantern](Gifs/lantern.gif)
 
 ### Enemies
 - They can see you, but they can hear it. They will follow you until they don't see you anymore. If they touch you, you've been caught and you have to reset the level.
 - Behaviour trees are used.
-
+  ![AI](Gifs/AI.gif)
 
 
 ## Features
@@ -52,6 +57,8 @@ It was made for a college project, but my artist didn't make the art... I did th
 - PS1 graphics
 - Horror
 - 3D FirstPerson
+
+  ![Shader](Gifs/SAHDER.gif)
 
 
 
